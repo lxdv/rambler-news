@@ -73,5 +73,5 @@ class RamblerParser:
             exec = ThreadPoolExecutor(max_workers=self.num_workers)
             exec.map(self.f, self.date_list)
         else:
-            for i, date in enumerate(self.date_list):
+            for date in self.date_list:
                 self.f(date)
