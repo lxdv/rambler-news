@@ -5,7 +5,7 @@ Natural Language Processing course.
 
 Collected data is available [here](https://drive.google.com/file/d/1ByVbdR6UZb_z6l_nSLBx4u4zI2Npd0-2/view?usp=sharing)
 
-*National Research University - Higher School of Economics.* &copy;2019
+*National Research University - Higher School of Economics.* & copy;2019
 
 ## Dependencies
 
