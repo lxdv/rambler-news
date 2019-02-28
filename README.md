@@ -1,4 +1,4 @@
-## Rambler News parser
+# Rambler News parser
 
 Simple news parser from https://news.rambler.ru implemented as part of the 
 Natural Language Processing course.
