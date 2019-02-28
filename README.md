@@ -27,7 +27,7 @@ Run `main.py` and get news for last week
 
 ```
 parser = RamblerParser(num_pools=50, num_workers=50, days=7, 
-            output="output.json", re_pattern=None, pages=50)
+            output="output.json", re_pattern='[\s&nbsp]+', pages=50)
 parser.parse()
 ```
 where
@@ -36,7 +36,7 @@ where
 * **num_workers** - Number of workers
 * **days** - Collect data from N days ago up to now
 * **pages** - Number of pages for each date
-* **re_pattern** - Pattern for regexp. If **None** - replacing whitespaces to space character.
+* **re_pattern** - Pattern for regexp.
 * **output** - File to save data
 
 ## Output format
