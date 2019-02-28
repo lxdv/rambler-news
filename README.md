@@ -12,7 +12,6 @@ Collected data is available [here](https://drive.google.com/file/d/1ByVbdR6UZb_z
 * Python 3.6.7
    * urllib3==1.23  
    * lxml==4.3.1
-   * numpy==1.14.2
 
 It can be easily installed via ```pip3 install -r requirements.txt```  
 
