@@ -3,7 +3,7 @@
 Simple news parser from https://news.rambler.ru implemented as part of the 
 Natural Language Processing course.
 
-Collected data is available [here](https://drive.google.com/file/d/1ByVbdR6UZb_z6l_nSLBx4u4zI2Npd0-2/view?usp=sharing)
+Collected data (*more than 2 millions samples*) is available [here](https://drive.google.com/file/d/1c5-PBIwxmzudrR5JUJv_Q_-hq2Ea2CMh)
 
 *National Research University - Higher School of Economics.* & copy;2019
 
@@ -35,7 +35,7 @@ where
 * **num_workers** - Number of workers
 * **days** - Collect data from N days ago up to now
 * **pages** - Number of pages for each date
-* **re_pattern** - Pattern for regexp.
+* **re_pattern** - Pattern for regexp
 * **output** - File to save data
 
 ## Output format
